@@ -2,7 +2,7 @@
 
 # React User Registration Application
 
--https://react-user-registration-application.vercel.app/
+- https://react-user-registration-application.vercel.app/
 
 This is a React application for user registration with multi-step form validation. The application uses Formik and React Hook Form for form validation in each component. User data is stored in local storage, and the final records are displayed in a table format.
 
