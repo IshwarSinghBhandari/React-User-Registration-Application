@@ -10,8 +10,8 @@ This is a React application for user registration with multi-step form validatio
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Features
 
@@ -75,9 +75,6 @@ npm install
 npm start
 ```
 
-## Contributing
-
-Feel free to contribute to this project by opening issues or pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 
 
