@@ -35,7 +35,7 @@ This is a React application for user registration with multi-step form validatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-user-registration.git
+   git clone [https://github.com/your-username/react-user-registration.git](https://github.com/IshwarSinghBhandari/React-User-Registration-Application/tree/main)
    ```
 
 2. Change into the project directory:
