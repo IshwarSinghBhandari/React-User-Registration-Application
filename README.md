@@ -79,10 +79,5 @@ npm start
 
 Feel free to contribute to this project by opening issues or pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-Please note that the file names (like `CONTRIBUTING.md`, `LICENSE`, etc.) are just placeholders, and you should replace them with your actual file names. You can create these files based on your project's needs.
